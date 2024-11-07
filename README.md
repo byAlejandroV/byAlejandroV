@@ -1,5 +1,5 @@
 <div aling="center">
-  <img height="150" src="bannerGit.png"/>
+  <img height="180" width="100%"  aling="center" src="bannerGit.png"/>
 </div>
 <div align="center">
   <a href="https://www.instagram.com/_byalejandrov/" target="_blank">
