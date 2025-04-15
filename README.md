@@ -2,7 +2,7 @@
   <img height="180" width="100%"  aling="center" src="bannerGit.png"/>
 </div>
 <div align="center">
-  <a href="https://www.instagram.com/_byalejandrov/" target="_blank">
+  <a href="https://www.instagram.com/byalejxndrov/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/diegoalejandro.vallejorivillas/?locale=es_LA" target="_blank">
